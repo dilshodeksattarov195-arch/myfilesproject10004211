@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasederify",
+        "uuid": 34235430,
+        "checksum": "f1oaq"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
